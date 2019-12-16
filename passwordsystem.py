@@ -1,24 +1,4 @@
-Skip to content
-Search or jump to…
 
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@ramil-bro 
-Learn Git and GitHub without any code!
-Using the Hello World guide, you’ll start a branch, write comments, and open a pull request.
-
-
-1
-00ramil-bro/Ramil-
- Code Issues 0 Pull requests 0 Actions Projects 2 Wiki Security Insights Settings
-Ramil-/passwordsystem.py
-@ramil-bro ramil-bro qaqaw
-328e684 3 minutes ago
-25 lines (25 sloc)  739 Bytes
-  
 import time
 ad='ramil'
 sifre='111'
@@ -44,15 +24,3 @@ while(True):
             print('gozleyin...')
     else:
         print('go out',AD)
-© 2019 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
